@@ -20,7 +20,7 @@ int main(){
     printf("----------------------------------------------------------\n");
     scanf("%d", &opcao);
 
-    //switch para dar o resultado da escolha do usuário 
+    //switch para dar o resultado da escolha do usuário
     switch(opcao){
         case 1:
             printf("O salário do Diretor é R$15000,00\n");

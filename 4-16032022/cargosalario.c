@@ -1,3 +1,6 @@
+/*programa usado para mostrar o salário dos funcionários digitados
+pelo usuário*/
+
 #include <stdio.h>
 
 int main(){
