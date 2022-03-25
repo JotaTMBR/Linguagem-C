@@ -19,7 +19,7 @@ void main(){
     else
         reajuste = (salAtual * 12) / 100;
 
-    printf("O reajuste é %f", reajuste);
-    printf("O novo salario é %f", salAtual + reajuste);
+    printf("O reajuste é %.2f\n", reajuste);
+    printf("O novo salario é %.2f\n", salAtual + reajuste);
 
 }

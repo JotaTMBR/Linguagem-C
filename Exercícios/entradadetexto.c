@@ -1,3 +1,5 @@
+/*programa para registrar a entrada de texto que 
+o usuário digitou*/
 #include <stdio.h>
 #include <stdlib.h>
 

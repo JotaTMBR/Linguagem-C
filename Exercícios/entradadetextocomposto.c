@@ -1,3 +1,6 @@
+/*programa que lê a entrada de texto digitado pelo usuário
+usando uma formatação diferente no scanf para poder ler
+um texto composto*/
 #include <stdio.h>
 #include <stdlib.h>
 

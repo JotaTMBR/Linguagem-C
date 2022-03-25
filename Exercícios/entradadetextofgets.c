@@ -1,3 +1,5 @@
+/*programa para ler a entrada de texto composto do usuario
+usando a função fgets()*/
 #include <stdio.h>
 #include <stdlib.h>
 
