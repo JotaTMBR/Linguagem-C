@@ -21,5 +21,6 @@ void main(){
     scanf("%s", &pNovoCliente->idade);
 
     printf("Usuário Registrado: %s\n",pNovoCliente->nome);
-    printf("Email Registrado: %s\n", pNovoCliente->email);  
+    printf("Email Registrado: %s\n", pNovoCliente->email);
+    printf("Idade Registrada: %d\n", pNovoCliente->idade);  
 }
