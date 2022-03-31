@@ -51,4 +51,3 @@ Tudo aprendido colocado em pratica nas aulas de Linguagem C. Foi criado as pasta
 ### O que foi aprendido?
 
 - A decimal.c serve para calcular um numero decimal e transformá-lo em binário
-- 
