@@ -1,3 +1,5 @@
+/*Programa que faz o calculo de um numero decimal e o muda para um
+numero binário*/
 #include <stdio.h>
 
 int main(){
