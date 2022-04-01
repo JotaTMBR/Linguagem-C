@@ -30,11 +30,14 @@ void menorValor(int array[], int tamanho){
 void ordenar(int valores[], int tamanho){
 
     for(int j = 1; j < tamanho; j++){
-        int x = valores
+        int x = valores;
         int i;
         for(i = j - 1; i >= 0 && valores[i] > x; i--){
             valores[i+1] = valores[i];
         }
         valores[i+1] = x;
+    }
+    for(int p = 0; p < tamanho; p++){
+        printf("%d - ",valores[p]);
     }
 }
