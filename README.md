@@ -9,7 +9,7 @@ Tudo aprendido colocado em pratica nas aulas de Linguagem C. Foi criado as pasta
 - O Famoso Hello World
 - O "**primeiro.c**" foi criado para usar a variável *int* (inteira);
 - O "**segundo.c**" foi criado para usar a variavel *char* (character);
-- O "**terceiro.c**" foi o primeiro calculo feito usando a variável *float*.
+- O "**terceiro.c**" foi o primeiro calculo feito usando a variável *float*(para números quebrados).
 #
 ## Pasta 2-09032022
 ### O que foi aprendido?
@@ -24,12 +24,12 @@ Tudo aprendido colocado em pratica nas aulas de Linguagem C. Foi criado as pasta
 
 - "**descontofuncionario.c**" foi criado para calcular um desconto de funcionário;
 - "**mediaescolar.c**" foi criado para mostrar se um aluno foi Aprovado ou se foi Reprovado;
-- "**mediaescolar2.c**" tem o mesmo propósito da anterior porém foi adicionado o resultado de que o aluno estaria em Recuperação.
+- "**mediaescolar2.c**" tem o mesmo propósito do programa anterior porém foi adicionado o resultado de que o aluno estaria em Recuperação.
 #
 ## Pasta 4-16032022
 ### O que foi aprendido?
 
-- "**cargosalario.c**" criado para mostrar o salário dos funcionarios usando a função if e else;
+- "**cargosalario.c**" criado para mostrar o salário dos funcionarios usando a estrutura *if e else*;
 - "**cargosswitch.c**" criado para exibir o salario do cargo do funcionario de acordo com a escolha do usuário usando a função switch;
 - "**entradadetexto.c**" foi criado para pedir que o usuário escreva o nome;
 - "**mensagem.c**" criado para mostrar uma mensagem ao usuário.
@@ -37,14 +37,14 @@ Tudo aprendido colocado em pratica nas aulas de Linguagem C. Foi criado as pasta
 ## Pasta 5-17032022
 ### O que foi aprendido?
 
-- "**anosbissexto.c**" foi criado para mostrar todos os anos bissextos desde 1950 até agora;
+- "**anosbissexto.c**" foi criado para mostrar todos os anos bissextos desde 1950 até o ano atual(2022);
 - "**contador.c**" criado para fazer uma contagem de 1 até 10;
 - "**tabuada.c**" criada para realizar o calculo da tabuada escolhida pelo usuário;
 #
 ## Pasta 6-18032022
 ### O que foi aprendido?
 
-- "**calculo_cpf.c**" foi criado para fazer o calculo de validação do CPF usando um desvio de fluxo com o *for* junto com "*if* e "*else*".
+- "**calculo_cpf.c**" foi criado para fazer o calculo de validação do CPF usando um desvio de fluxo e uma estrutura de repetição com o *for* e "*if* e "*else*".
 
 #
 ## Pasta 7-21032022
