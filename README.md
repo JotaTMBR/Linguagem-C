@@ -1,12 +1,12 @@
 # Estudo da Linguagem C
 ## Aplicando em lógica de programação
 
-Tudo aprendido colocado em pratica nas aulas de Linguagem C. Foi criado as pastas com a data das aulas praticas no curso de Tecnico em Informatica.
+Tudo aprendido colocado em prática nas aulas de Linguagem C. Foi criado as pastas com a data das aulas praticas no curso de Tecnico em Informatica.
 #
 ## Pasta 1-07032022
 ### O que foi aprendido?
 
-- O Famoso Hello World
+- O Famoso *Hello World*;
 - O "**primeiro.c**" foi criado para usar a variável *int* (inteira);
 - O "**segundo.c**" foi criado para usar a variavel *char* (character);
 - O "**terceiro.c**" foi o primeiro calculo feito usando a variável *float*(para números quebrados).
@@ -39,7 +39,7 @@ Tudo aprendido colocado em pratica nas aulas de Linguagem C. Foi criado as pasta
 
 - "**anosbissexto.c**" foi criado para mostrar todos os anos bissextos desde 1950 até o ano atual(2022);
 - "**contador.c**" criado para fazer uma contagem de 1 até 10;
-- "**tabuada.c**" criada para realizar o calculo da tabuada escolhida pelo usuário;
+- "**tabuada.c**" criada para realizar o calculo da tabuada escolhida pelo usuário.
 #
 ## Pasta 6-18032022
 ### O que foi aprendido?
